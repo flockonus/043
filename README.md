@@ -12,6 +12,10 @@ p2pi --taken
 
 043 (!)
 
+# inspiration
+
+Much is said about how the world's knowledge is concentrated on the hand of a few internet entities, and there is awesome work done over browser/node.js facilitated P2P - such as Webtorrent, among other initiatives that aim to decentralize ownership of knowledge.
+This project aim to contribute towards seeding knowledge in the form of a common web API
 
 # concept:
 
@@ -20,7 +24,7 @@ p2pi --taken
   2.1) has a defined structure (way to expose and list)
   2.2) can rate limit
   2.3) provide schema for all data sorts
-3) 
+3) trackers that allow for easy search
 
 
 ## idea of operation:
