@@ -14,7 +14,7 @@ p2pi --taken
 
 # inspiration
 
-Much is said about how the world's knowledge is concentrated on the hand of a few internet entities, and there is awesome work done over browser/node.js facilitated P2P - such as Webtorrent, among other initiatives that aim to decentralize ownership of knowledge.
+Much is said about how the world's knowledge is concentrated on the hand of a few internet entities, and there is awesome work done over browser/node.js facilitated P2P - such as webtorrent, dat, among other initiatives that aim to decentralize ownership of knowledge.
 This project aim to contribute towards seeding knowledge in the form of a common web API
 
 # concept:
